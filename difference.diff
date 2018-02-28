@@ -1,0 +1,11 @@
+diff --git a/test.txt b/test.txt
+index 65a3e46..0094b5c 100644
+--- a/test.txt
++++ b/test.txt
+@@ -1,3 +1,3 @@
+ 111222333444555666
+ 777888999
+-1001011101123132
+\ No newline at end of file
++1555555
+\ No newline at end of file
